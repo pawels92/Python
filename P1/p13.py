@@ -1,0 +1,12 @@
+a=()
+b=[]
+c=""
+d=0
+e=None
+f={}
+print(bool(a))
+print(bool(b))
+print(bool(c))
+print(bool(d))
+print(bool(e))
+print(bool(f))
